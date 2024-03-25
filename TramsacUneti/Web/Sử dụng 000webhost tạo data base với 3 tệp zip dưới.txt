@@ -1,0 +1,1 @@
+Nhập db,user,pass database vào 2 file database tương ứng
